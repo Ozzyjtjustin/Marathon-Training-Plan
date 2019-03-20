@@ -1,3 +1,13 @@
+# Fusion Running
+
+There is no one perfect way to train for a race, with so many variables to consider. Age, BMI, Activity level, and desired Outcome are just a few of the many variables 
+to consider when preparing for your next race. No one training plan will work perfect for anyone! Fusion Running takes all the best practices and techniques and 
+fuses them with your individual needs! 
+
+
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
