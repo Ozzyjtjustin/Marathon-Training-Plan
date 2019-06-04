@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+This will be my future fusion running app
           </a>
         </header>
       </div>
