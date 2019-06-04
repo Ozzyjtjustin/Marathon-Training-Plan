@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Train at your pace
+This will be my future fusion running app
           </a>
         </header>
       </div>
